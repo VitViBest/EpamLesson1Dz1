@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\EpamLesson1Dz1\EpamLesson1Dz1\bin\Debug\EpamLesson1Dz1.exe.config
+C:\Users\User\source\repos\EpamLesson1Dz1\EpamLesson1Dz1\bin\Debug\EpamLesson1Dz1.exe
+C:\Users\User\source\repos\EpamLesson1Dz1\EpamLesson1Dz1\bin\Debug\EpamLesson1Dz1.pdb
+C:\Users\User\source\repos\EpamLesson1Dz1\EpamLesson1Dz1\obj\Debug\EpamLesson1Dz1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\EpamLesson1Dz1\EpamLesson1Dz1\obj\Debug\EpamLesson1Dz1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EpamLesson1Dz1\EpamLesson1Dz1\obj\Debug\EpamLesson1Dz1.exe
+C:\Users\User\source\repos\EpamLesson1Dz1\EpamLesson1Dz1\obj\Debug\EpamLesson1Dz1.pdb
